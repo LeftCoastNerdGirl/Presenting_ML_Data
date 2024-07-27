@@ -1,4 +1,5 @@
 # Pesticide Use on Cancer Rates
+
 This repo is forked from the single repo we used to collaborate for our project. Exploratory data on other branches was conducted, but ultimately left out in final pushes.  
 
 Group 1  
@@ -10,9 +11,25 @@ Ashlee Vo
 
 # Project Guidelines
 
+
+
 # Our Topic
 
+Often we see farmers spraying pesticides and other chemicals on their fields, to protect their crops and increase their yield. We may even use similar products on our own yards and in our gardens. But do we truly think about the long term affects of these chemicals on ourselves, our food supply, and the health of the farmers and workers who apply them?  
 
+For our final project, we chose to analyze pesticide use correlated with incidences of various types of cancer in the areas where they pesticide use is high. We categorized the data as follows:  
+
+Types of Pesticides  
+-Fungicide  
+-Herbicide  
+-Insecticide  
+
+Types of Cancer  
+-Leukemia  
+-Lung Cancer  
+-Breast Cancer  
+-Prostate Cancer  
+-Non-Hodgkin Lymphoma  
 
 # Our Data Sources
 
@@ -26,7 +43,7 @@ An outlier was identified and removed from the dataset which was Union County, F
 
 We explored an assortment of 18 different correlations between the variables in order to find the strongest correlations between the data collected. The strongest correlation we were able to find was between total cancer incidence rates and herbicide use, granted not a strong correlation but the strongest we could work with.  
 
-Cancer Data: https://www.statecancerprofiles.cancer.gov/incidencerates/index.php?stateFIPS=00&areatype=county&cancer=001&race=00&sex=0&age=001&type=incd&sortVariableName=rate&sortOrder=default&output=0#results
+Cancer Data: https://www.statecancerprofiles.cancer.gov/incidencerates/index.php?stateFIPS=00&areatype=county&cancer=001&race=00&sex=0&age=001&type=incd&sortVariableName=rate&sortOrder=default&output=0#results  
 Pesticide Data: https://www.sciencebase.gov/catalog/item/6081a924d34e8564d68661a1
 
 # Our Initial Plan
@@ -53,5 +70,5 @@ Our study was very limited due to data availability, time, and the fact that can
 
 # Links to Project Components Outside of This Repo
 
-Tableau: https://public.tableau.com/views/BootcampCapstoneProject_17124418928630/InteractiveMap?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Tableau: https://public.tableau.com/views/BootcampCapstoneProject_17124418928630/InteractiveMap?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
 User GUI Github: https://github.com/varunsly/Linear_Regression_GUI.git
