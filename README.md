@@ -11,7 +11,19 @@ Ashlee Vo
 
 # Project Guidelines
 
+This was our capstone project for the bootcamp so the stakes were high and the requirements were detailed.  
 
+Data Model Implementation  
+-A Python script initializes, trains, and evaluates a model  
+-The data is cleaned, normalized, and standardized prior to modeling  
+-The model utilizes data retrieved from SQL or Spark  
+-The model demonstrates meaningful predictive power at least 75% classification accuracy or 0.80 R-squared
+
+Data Model Optimization
+-The model optimization and evaluation process showing iterative changes made to the model and the resulting changes in model performance is documented  
+-Overall model performance is printed or displayed at the end of the script  
+
+As with the other projects, we needed a github repo that was free of unnecessary files with a detailed and polished README.  When we presented our project, each member was required to speak, the content, slides, and conclusions need to flow smoothly, and the content of the presentation was to be relevant to the project.  
 
 # Our Topic
 
