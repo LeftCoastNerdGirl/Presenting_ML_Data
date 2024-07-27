@@ -1,5 +1,5 @@
 # Pesticide Use on Cancer Rates
-Note: Exploratory data on other branches was conducted, but ultimately left out in final pushes.
+This repo is forked from the single repo we used to collaborate for our project. Exploratory data on other branches was conducted, but ultimately left out in final pushes.  
 
 Group 1  
 Mo Smith  
